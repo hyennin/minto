@@ -18,6 +18,10 @@
   font-size: 10px;
 }
 
+.nav-item:last-child {
+  margin-left: -8px;
+}
+
 .active {
   color: rgba(0, 210, 189, 1);
 }
