@@ -123,6 +123,7 @@ article {
   border-radius: 20px;
   background-color: var(--main-color);
   background-image: url(../assets/image.png);
+  opacity: 0.8;
   background-size: cover;
 }
 
